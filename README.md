@@ -1,2 +1,2 @@
-# SIR-Model
-This is SIR Model analysis of Covid19 data  (North East England cases)
+# SIR-SEIR Model
+This is SIR & SEIR Model analysis of Covid19 data  (North East England cases)
